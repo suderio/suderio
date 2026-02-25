@@ -2,8 +2,6 @@
   <img src="banner.png" alt="Languages & Systems Banner" width="100%">
 </p>
 
-# Hi there! I'm [Your Name] 👋
-
 # Hi there! I'm Paulo Suderio
 
 ## DevOps Enthusiast | Neovim Plugin Developer | Die Hard Emacs User
